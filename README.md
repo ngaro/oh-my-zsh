@@ -186,7 +186,7 @@ The install script also accepts these variables to allow installation of a diffe
 For example:
 
 ```shell
-REPO=apjanke/oh-my-zsh BRANCH=edge sh install.sh
+REPO=ngaro/oh-my-zsh BRANCH=cmtversion sh install.sh
 ```
 
 #### Manual Installation
